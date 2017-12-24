@@ -1,0 +1,15 @@
+Циферблат
+ID: ClockFace
+Метка: #ClockFace
+
+Часовая стрелка
+ID: HourHand
+Метка: #HourHand
+
+Минутная стрелка
+ID: MinuteHand
+Метка: #MinuteHand
+
+Секундная стрелка
+ID: SecondHand
+Метка: #SecondHand

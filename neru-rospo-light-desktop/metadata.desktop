@@ -1,0 +1,31 @@
+[Desktop Entry]
+Name=РОСПО,светлая тема
+
+X-KDE-PluginInfo-Author=Sadrlimanov Ramil Rashitovich
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=neru-rospo-light-desktop
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=rospo
+defaultFileSuffix=.svg
+defaultWidth=1920
+defaultHeight=1200
+
+[ContrastEffect]
+enabled=true
+contrast=0.2
+#intensity is disabled, in order to auto adjust to the chosen theme color
+#intensity=2.0
+saturation=1.7
